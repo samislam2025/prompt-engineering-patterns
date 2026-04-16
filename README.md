@@ -274,7 +274,9 @@ Found a pattern that's missing? Spotted a case where my engineered prompt fails?
 Building AI products and evaluating them for a living. Career pivoter (restaurant operations → tech) who genuinely cares about *why* AI systems work or don't. This repo is the reference I wish existed when I started working with LLMs in production.
 
 📧 [sayem@aisecondacts.com](mailto:sayem@aisecondacts.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sayemislam/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sayemmislam)
+🌐 [mysecondact.io](https://mysecondact.io/)
+🌐 [aicareerhubs.co](https://aicareerhubs.co/)
 
 </td>
 </tr>
