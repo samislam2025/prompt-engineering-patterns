@@ -260,27 +260,9 @@ Found a pattern that's missing? Spotted a case where my engineered prompt fails?
 
 ## 📬 Author
 
-<table>
-<tr>
-<td width="140" align="center" valign="top">
-
-**Sayem Islam**
-
-</td>
-<td valign="top">
-
-**Prompt Specialist & AI Evaluator**
-
-Building AI products and evaluating them for a living. Career pivoter (restaurant operations → tech) who genuinely cares about *why* AI systems work or don't. This repo is the reference I wish existed when I started working with LLMs in production.
-
-📧 [sayem@aisecondacts.com](mailto:sayem@aisecondacts.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sayemmislam)
-🌐 [mysecondact.io](https://mysecondact.io/)
-🌐 [aicareerhubs.co](https://aicareerhubs.co/)
-
-</td>
-</tr>
-</table>
+|  |  |
+|:---:|:---|
+| <img src="https://github.com/samislam2025.png" width="150"/> | **Sayem Islam** <br> Prompt Specialist & AI Evaluator <br><br> Building AI products and evaluating them for a living. Career pivoter (restaurant operations → tech) who genuinely cares about *why* AI systems work or don't. This repo is the reference I wish existed when I started working with LLMs in production. <br><br> 📧 [sayem@aisecondacts.com](mailto:sayem@aisecondacts.com) <br> 🔗 [LinkedIn](https://www.linkedin.com/in/sayemmislam) <br> 🌐 [mysecondact.io](https://mysecondact.io/) <br> 🌐 [aicareerhubs.co](https://aicareerhubs.co/) |
 
 ---
 
