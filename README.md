@@ -262,7 +262,7 @@ Found a pattern that's missing? Spotted a case where my engineered prompt fails?
 
 |  |  |
 |:---:|:---|
-| <img src="https://github.com/samislam2025.png" width="150"/> | **Sayem Islam** <br> Prompt Specialist & AI Evaluator <br><br> Building AI products and evaluating them for a living. Career pivoter (restaurant operations → tech) who genuinely cares about *why* AI systems work or don't. This repo is the reference I wish existed when I started working with LLMs in production. <br><br> 📧 [sayem@aisecondacts.com](mailto:sayem@aisecondacts.com) <br> 🔗 [LinkedIn](https://www.linkedin.com/in/sayemmislam) <br> 🌐 [mysecondact.io](https://mysecondact.io/) <br> 🌐 [aicareerhubs.co](https://aicareerhubs.co/) |
+| <img src="https://github.com/sayemnyc.png" width="150"/> | **Sayem Islam** <br> Prompt Specialist & AI Evaluator <br><br> Building AI products and evaluating them for a living. Career pivoter (restaurant operations → tech) who genuinely cares about *why* AI systems work or don't. This repo is the reference I wish existed when I started working with LLMs in production. <br><br> 📧 [hello@sayemislam.com](mailto:hello@sayemislam.com) <br> 🌐 [sayemislam.com](https://sayemislam.com) <br> 🔗 [LinkedIn](https://www.linkedin.com/in/sayemmislam) <br> 🌐 [mysecondact.io](https://mysecondact.io/) |
 
 ---
 

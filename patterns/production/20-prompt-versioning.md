@@ -42,7 +42,7 @@ metadata:
   id: support_agent
   version: "3.2.1"
   created: "2024-11-15"
-  author: "sayem@aisecondacts.com"
+  author: "hello@sayemislam.com"
   model: "claude-sonnet-4-6"
   temperature: 0.3
   changelog: |
